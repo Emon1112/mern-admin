@@ -14,6 +14,7 @@ export default function CrudLayout({
   sidePanelTopContent,
   sidePanelBottomContent,
   fixHeaderPanel,
+  tff
 }) {
   return (
     <DefaultLayout>
